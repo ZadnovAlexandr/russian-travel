@@ -1,5 +1,5 @@
 .place__paragraphs{
-  padding: 32px 16px 0 16px; 
+  padding: 32px 16px 0 16px;
   display: inline-grid;
   grid-template-columns: 1fr;
   grid-template-rows: repeat(auto-fit, min-content);

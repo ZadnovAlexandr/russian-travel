@@ -1,5 +1,5 @@
 .header__lang-link{
-  padding: 14px 18px 8px 0; 
+  padding: 14px 18px 8px 0;
   margin: 0;
   display: block;
   font-style: normal;
@@ -12,7 +12,7 @@
 }
 
 .header__lang-link:nth-of-type(2n) {
-  padding: 14px 0 8px; 
+  padding: 14px 0 8px;
   text-decoration: none;
   }
 
