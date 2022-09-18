@@ -2,7 +2,7 @@
   .place{
     display: grid;
     grid-template-columns: max-content 1fr;
-    grid-template-rows: repeat(2, min-content); 
+    grid-template-rows: repeat(2, min-content);
     gap: 48px 28px;
   }
 }
