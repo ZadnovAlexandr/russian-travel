@@ -1,4 +1,4 @@
-.header__lang-link_underline:hover{
+.header__lang-link_underline{
     text-decoration:underline;
     text-underline-offset: 4px;
   }
